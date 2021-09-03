@@ -1,0 +1,142 @@
+@import url('https://fonts.googleapis.com/css2?family=Handlee&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Klee+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Pen+Script&display=swap');
+
+* {
+    margin: 10px;
+    padding: 5;
+    box-sizing: content-box;
+    background-color: rgb(65, 36, 16);
+    text-align: center;
+    color: cornsilk;
+}
+
+div.midia1{
+    float: left;
+  width: 30%;
+  text-align: center;
+  font-style: italic;
+  font-size: smaller;
+  text-indent: 0;
+  border: thin burlywood solid;
+  margin: 0.5em;
+  padding: 0.5em;
+}
+
+div.midia2{
+    float: right;
+    width: 80%;
+    text-align: center;
+    font-style: italic;
+    font-size: smaller;
+    text-indent: 0;
+    border: thin burlywood solid;
+    margin: 0.5em;
+    padding: 0.5em;
+}
+
+div.midia3{
+    float: left;
+    width: 70%;
+    text-align: center;
+    font-style: italic;
+    font-size: smaller;
+    text-indent: 0;
+    border: thin burlywood solid;
+    margin: 0.5em;
+    padding: 0.5em;
+}
+
+div.midiageral{
+    float: center;
+    width: 90%;
+    text-align: center;
+    text-indent: 0;
+    border: thin burlywood solid;
+    margin: 0.10em;
+    padding: 0.10em;
+}
+
+h1.titulo {
+    font-family:'Handlee', cursive;
+    font-size: 64px;
+    border-radius: 2px;
+    color: burlywood;
+    text-align: center;
+    border-width: 5px;
+    border-style: solid;
+    border-color: burlywood;
+    border-radius: 10px;
+}
+
+h2.subtitulo {
+    font-family: cursive;
+    font-size: 36px;
+    border-radius: 2px;
+    color: burlywood;
+    text-align: left;
+}
+
+h3.saibamais{
+    font-family: 'Nanum Pen Script', cursive;
+    font-size: 24px;
+    border-radius: 2px;
+    color: burlywood;
+    text-align: left;
+}
+a:link {
+    color:cornsilk;
+  }
+  a:visited {
+    color:rgb(238, 212, 108);
+  }
+  a:hover {
+    color: rgb(248, 221, 211);
+  }
+
+p.links {
+    font-family: 'Klee One', cursive;
+    font-size: 20px;
+    border-radius: 2px;
+    color: burlywood;
+    text-align: left;
+}
+
+p.textosimples {
+    font-family: 'Klee One', cursive;
+    font-size: 24px;
+    border-radius: 5px;
+    color: burlywood;
+    text-align: justify;
+}
+
+p.textosimples2 {
+    font-family: 'Klee One', cursive;
+    font-size: 20px;
+    color: burlywood;
+    text-align: justify;
+}
+
+h1.titulo2 {
+    font-family: 'Klee One', cursive;
+    font-size: 40px;
+    border-radius: 2px;
+    color: burlywood;
+    text-align: center;
+}
+
+h3.subtitulo {
+    font-family: cursive;
+    font-size: 24px;
+    border-radius: 2px;
+    color: burlywood;
+    text-align: center;
+}
+p.textosimpleslinks{
+    font-family: 'Klee One', cursive;
+    font-size: 24px;
+    border-radius: 5px;
+    color: burlywood;
+    text-align: left;
+}
+
